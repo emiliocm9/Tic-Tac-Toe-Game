@@ -2,6 +2,7 @@
 # Tic Tac Toe Game
 
 The aim of this project is to build a Tic Tac Toe Game using ruby language.
+This is a clone of a game repository I made with a friend. You could find the original files, issues, pull requests and commits in the follow link https://github.com/Zubenna/tic-tac-toe-project
 
 This project is about coding the Tic Tac Toe Game using the concept of object oriented programming. Here, we explored the use of classes, methods and variables. We also explored the application of these terms in solving a problem. It involves breaking the problem into smaller piece and units, defined a pseudocode on how to solve these problems, wrote a mock solution to the problem and then wrote a proper ruby code arranged in classes and methods combined and arranged properly to solve this problem.
 
