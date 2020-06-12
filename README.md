@@ -6,7 +6,7 @@ This is a clone of a game repository I made with a friend. You could find the or
 
 This project is about coding the Tic Tac Toe Game using the concept of object oriented programming. Here, we explored the use of classes, methods and variables. We also explored the application of these terms in solving a problem. It involves breaking the problem into smaller piece and units, defined a pseudocode on how to solve these problems, wrote a mock solution to the problem and then wrote a proper ruby code arranged in classes and methods combined and arranged properly to solve this problem.
 
-![PROJECT: made by Emilio and Nnamdi](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/Tic_tac_toeSS.png)
+![PROJECT: made by Emilio and Nnamdi](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/Tic_tac_toeSS.png)
 
 ## Features Of This Game
 
@@ -32,22 +32,22 @@ This project is about coding the Tic Tac Toe Game using the concept of object or
          ![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/readme_game_instructions/img/first_instruction.png)
          
 2.- Open your terminal. To open the terminal, press Ctrl+Alt+T(Ubuntu) or if you are using Mac Command + Space and type in 'Terminal'. If you are using Windows you can skip this step, and use the Live Version explained below.
-![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/terminal_open.png)
+![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/first_instruction.png)
 
 3.- Navigate to the location in your computer where you want the repo to be cloned. Remeber that you have to type cd first.
-![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/move_project.png)
+![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/move_project.png)
 
 4.- Type git clone and paste the url you copied on step one.
          $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-         ![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/git_clone_better.png)
+         ![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/git_clone_better.png)
 
 5.- Press Enter. Your local clone will be created.
 
 6.- After cloning your local version, please type 'bin/main.rb' and press Enter.
-![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/main_rb.png)
+![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/main_rb.png)
 
 7.- Enjoy playing!
-![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/readme_game_instructions/img/game_running.png)
+![PROJECT: first instruction](https://github.com/Zubenna/tic-tac-toe-project/blob/development/img/game_running.png)
 
 
 If you rather using a Live Online version of the game, follow the next instructions.
